@@ -16,4 +16,4 @@ Other assets may work too, but only if they are created through one of the follo
 1. Right-Click in Content Browser -> Create Basic Asset -> Blueprint Class OR
 2. Right-Click in Content Browser -> Create Advanced Asset -> Animation -> Animation Blueprint
 
-Recommendation: Make and exception, based on the above file prefixes, for .uasset files that can be merged with the editor tool provided by the engine standard vanilla Git pluggin.
+Recommendation: Make and exception, based on the above file prefixes, for .uasset files that can be merged with the editor tool provided by the engine standard vanilla Git plugin.
